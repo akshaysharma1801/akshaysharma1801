@@ -14,7 +14,6 @@ Hi! I'm Akshay Sharma. I'm an experienced software engineer having knowledge in 
 ## Let's Connect
 
  - [website](https://codewithakshay.in/)
- - [linkedin](https://www.linkedin.com/in/akshay-sharma-52b217ba/)
 
 
 ## Certifications
