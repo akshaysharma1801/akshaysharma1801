@@ -11,11 +11,6 @@ Hi! I'm Akshay Sharma. I'm an experienced software engineer having knowledge in 
  - AWS,GCP
  - A Fullstack developer
 
-## Let's Connect
-
- - [website](https://codewithakshay.in/)
-
-
 ## Certifications
 
  [- AWS Certified Cloud Practitioner](https://www.credly.com/badges/2d6973cf-58b0-4483-96e4-6a058b531356/linked_in_profile)
